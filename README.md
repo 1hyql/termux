@@ -4,7 +4,8 @@
 
 Termux 交流社区官网是一个纯静态网站，专为 Android Termux 用户打造。网站采用数据驱动架构，所有展示内容（下载资源、推荐文章、社区公告）均通过独立的 JavaScript 数据文件动态渲染。
 
-**技术栈**：HTML5 + CSS3 + Vanilla JavaScript，零框架依赖，零构建步骤。
+**技术栈**：HTML5 + CSS3 + Vanilla JavaScript，零框架依赖，零构建步骤。  
+地址：[点击前往 Termux交流社区官网](https://1hyql.github.io/termux)
 
 ---
 
