@@ -138,10 +138,18 @@ const downloadsData = {
 // ========更多资源========
   resources: [
     {
+      title: "Termux 交流社区镜像源",
+      desc: "社区维护的 Termux 软件包镜像源，可上传个人开发软件，为用户提供更便捷的平台。",
+      icon: "🌐",
+      url: "https://1hyql.github.io/termux-exchangecommunity-repo",
+      buttonText: "访问镜像源"
+    },
+    {
       title: "F-Droid",
       desc: "Android 上的自由开源应用商店，提供可信赖的 FOSS 应用下载与自动更新。Termux 及其插件的官方发布渠道。",
       icon: "🔒",
       url: "https://f-droid.org/",
+      buttonText: "访问 F-Droid"
     }
   ]
 };
