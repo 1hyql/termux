@@ -94,6 +94,13 @@ const downloadsData = {
       icon: "🖌️",
       url: "https://github.com/noob-hackers/T-LOAD",
       install: "git clone https://github.com/noob-hackers/T-LOAD && cd T-LOAD && bash t-load.sh"
+    },
+    {
+      title: "linux-learning",
+      desc: "由 mcplayer1553880 开发的 Linux 终端学习项目。配套可直接运行的示例与实战脚本，带你轻松搞定命令行。开源协议：MIT",
+      icon: "📖",
+      url: "https://github.com/jjjyu1940/linux-learning",
+      install: "git clone https://github.com/jjjyu1940/linux-learning.git"
     }
   ],
 // ========应用与插件========
